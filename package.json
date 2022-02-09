@@ -1,0 +1,25 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aseel-Dweedar/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aseel-Dweedar/ci-cd/issues"
+  },
+  "homepage": "https://github.com/Aseel-Dweedar/ci-cd#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
